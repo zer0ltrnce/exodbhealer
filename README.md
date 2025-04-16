@@ -12,7 +12,7 @@ Error Handling: Provides warnings and error messages to keep the user informed a
 Screenshot (optional)
 You can add a screenshot of the running application for better visual representation. Replace path/to/screenshot.png with the actual path to your image.
 <p align="center">
-<img src="path/to/screenshot.png" alt="ExoCAD db healer Screenshot" width="600">
+<img src="https://i.ibb.co/Wvq4Dwh0/Screenshot-2025-04-15-094004.png" alt="ExoCAD db healer Screenshot" width="600">
 </p>
 Installation
 Install Python 3.6 or later: https://www.python.org/downloads/
