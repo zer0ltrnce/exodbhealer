@@ -16,6 +16,22 @@ ExoCAD db healer is a graphical user interface (GUI) tool developed to simplify 
 
 ![ExoCAD db healer Screenshot](https://i.ibb.co/Wvq4Dwh0/Screenshot-2025-04-15-094004.png)
 
+
+## Compiled Release
+
+A pre-built executable version of **ExoCAD db healer** is available for users who prefer not to install Python or manage dependencies.
+
+### Features
+
+- No installation required. Download and run directly.
+- Built-in GUI with full functionality identical to the source version.
+- Supports Windows systems. Versions for Linux and macOS may follow.
+
+### Download
+
+The compiled build can be downloaded here:  
+**[Download ExoCAD db healer - Windows Build](https://github.com/zer0ltrnce/exodbhealer/releases/tag/exocaddbhealer)**
+
 ## Installation
 
 1. Install Python 3.6 or later: [Download Python](https://www.python.org/downloads/)
