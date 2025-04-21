@@ -68,9 +68,4 @@ This project is distributed under the GNU General Public License v3.0.
 Contact
 Created by David Kamarauli (smiledesigner.us)
 Instagram: @davidkamaraulli
-
-makefile
-Copy
-Edit
-::contentReference[oaicite:0]{index=0}
  
