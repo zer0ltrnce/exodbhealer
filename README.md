@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg) ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-ExoCAD db healer is a graphical user interface (GUI) tool developed to simplify the organization and management of ExoCAD project folders. The application allows you to automatically rename project folders based on information contained within ExoCAD settings files (XML) and `.dentalProject` files.
+ExoCAD db healer is a graphical tool designed specifically for situations where you've changed the project naming format in ExoCAD, causing old project paths to break. This application isn’t meant to simply organize or simplify — it’s built to fix the folder structure inside your CAD-Data directory. It automatically renames existing project folders to match the naming convention defined in your current defaultsettings.cfg, restoring consistency and functionality to your ExoCAD database.
 
 ## Features
 
